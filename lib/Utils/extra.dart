@@ -1,0 +1,1 @@
+enum OPTIONS{edit,add}
